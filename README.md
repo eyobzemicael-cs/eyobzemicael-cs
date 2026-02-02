@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Eyob Zemicael</h1>
 <h3 align="center">A Computer Science Student</h3>
+<h3 align="center">Associate in Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
